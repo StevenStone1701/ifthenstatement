@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\bin\Debug\IfThenStatement.exe.config
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\bin\Debug\IfThenStatement.exe
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\bin\Debug\IfThenStatement.pdb
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\bin\Debug\IfThenStatement.xml
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.vbprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.Resources.resources
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.vbproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.vbproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.exe
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.xml
+C:\Users\Gebruiker\Documents\Jochem\projects\IfThenStatement\IfThenStatement\obj\Debug\IfThenStatement.pdb
